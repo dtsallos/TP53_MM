@@ -3,11 +3,6 @@
 #load libraries
 library(tidyr)
 library(dplyr)
-library(ggplot2)
-library(ggprism)
-library(broom)
-library(ggsignif)
-library(DT)
 
 # folders
 main = "/MyelomaData/"
