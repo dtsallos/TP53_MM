@@ -10,9 +10,9 @@ library(ggsignif)
 library(DT)
 
 # folders
-main = "/censored/MyelomaData/"
-code = "/censored/MyelomaData/TP53project/"
-fdata = "/censored/MyelomaData/data/"
+main = "/MyelomaData/"
+code = "/MyelomaData/TP53project/"
+fdata = "/MyelomaData/data/"
 here = paste0(code, "1_DSRT/significance/")
 
 
